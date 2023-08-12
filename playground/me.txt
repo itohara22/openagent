@@ -1,5 +1,0 @@
-{{#user}}
-My name is Shubham.
-Here are my skills : html, css ,js , react.js, express.js ,node,js . 
-My email id is ito.k23018@gmail.com.
-{{/user}}
